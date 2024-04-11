@@ -1,0 +1,66 @@
+ManifestFileVersion: 0
+CRC: 1544098649
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f91308f8b4e06a93d3e3da43c9528d93
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3fe94a77e3a3b5847b8fdf46db099bcc
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f91308f8b4e06a93d3e3da43c9528d93
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e08ab46e8fb05dc46b34e54466dc11e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 317e663e2bb60ea408fe22b908b59295, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1464721f2283eb14e94a33e812b47be4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b3b3f04ac18184468bedd999e5a6688, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9cf2a74d69b1c1e41916d2a7afdff5be, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: efd927768041afd4d90e5d822283f0f4, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Oculus.Interaction
+  ClassName: Oculus.Interaction.PokeInteractable/DragThresholdsConfig
+- AssemblyName: Oculus.Interaction
+  ClassName: Oculus.Interaction.PokeInteractable/MinThresholdsConfig
+- AssemblyName: Oculus.Interaction
+  ClassName: Oculus.Interaction.PokeInteractable/PositionPinningConfig
+- AssemblyName: Oculus.Interaction
+  ClassName: Oculus.Interaction.PokeInteractable/RecoilAssistConfig
+- AssemblyName: Oculus.Interaction
+  ClassName: Oculus.Interaction.ProgressCurve
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+Assets:
+- Assets/Prefabs/Poke Interactable.prefab
+Dependencies: []

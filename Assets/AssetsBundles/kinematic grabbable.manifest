@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 3801232612
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8546f00a278de3404266de22ab578ddb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e837a72703a764e01483a5c7c01046a9
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8546f00a278de3404266de22ab578ddb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 43f86b14a27b52f4f9298c33015b5c26, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5a1bc992571301d4a9602ac95ef4c71a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/Kinematic Grabbable.prefab
+Dependencies: []

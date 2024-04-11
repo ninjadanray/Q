@@ -4,7 +4,7 @@ using UnityEngine;
 using Oculus.Platform;
 using Oculus.Platform.Models;
 
-namespace ProjectQ.PlatformServices
+namespace ProjectQ.PlatformServices.Integration
 {
     public class Entitlement : MonoBehaviour
     {

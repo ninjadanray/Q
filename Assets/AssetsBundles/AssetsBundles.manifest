@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 1848275001
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: kinematic grabbable
+      Dependencies: {}
+    Info_1:
+      Name: physics grabbable
+      Dependencies: {}
+    Info_2:
+      Name: poke interactable
+      Dependencies: {}

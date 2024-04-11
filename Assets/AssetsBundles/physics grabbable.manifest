@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 2482164100
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7bedb14633cbab3739e5925729def7f5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6ff4aeec1177929464640f5575650dd4
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7bedb14633cbab3739e5925729def7f5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 43f86b14a27b52f4f9298c33015b5c26, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5a1bc992571301d4a9602ac95ef4c71a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1bedaac29a943f844a7074b53c8bdf9f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/Physics Grabbable.prefab
+Dependencies: []
