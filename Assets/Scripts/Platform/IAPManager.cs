@@ -190,7 +190,7 @@ namespace ProjectQ.PlatformServices.Integration
             
             form.AddField("access_token", access_token);
             form.AddField("user_id", userVerification.user_id);
-            form.AddField("sku", "physics-grabbable-cube");
+            form.AddField("sku", "kinematic-grabbable-cube");
 
             using(UnityWebRequest www = UnityWebRequest.Post(verify_entitlement_api, form))
             {
@@ -208,7 +208,7 @@ namespace ProjectQ.PlatformServices.Integration
                     if (!responseData.success)
                     {
                         notice.text += "Proceeding to checkout \n";
-                        IAP.LaunchCheckoutFlow(skus[0]).OnComplete(BuyCallback);
+                        IAP.LaunchCheckoutFlow(skus[1]).OnComplete(BuyCallback);
                     }
                     else
                     {
